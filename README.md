@@ -1,4 +1,4 @@
-# ai_job_seeker_companion
+# AI Powered Job Seeker Companion
 
 This Java application utilizes web scraping techniques to gather job offers from various recruiting websites and predicts the required years of experience for each job using Natural Language Processing (NLP) and text mining techniques. The machine learning models are built using the Weka API.
 
